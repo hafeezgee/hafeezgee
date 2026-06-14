@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Hafeez Ahmed 👋
 
-<!--
-**hafeezgee/hafeezgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Computer Vision
+- Deep Learning
+- AI Research
+- Quantum Machine Learning
+
+## 🛠️ Technologies
+
+- Python
+- PyTorch
+- TensorFlow
+- OpenCV
+- Scikit-learn
+- NumPy
+- Pandas
+
+## 📂 Featured Projects
+
+### YOLO Object Detection
+Real-time object detection using YOLOv8 and OpenCV.
+
+### Skin Disease Detection
+Deep Learning-based medical image classification system.
+
+### Human Posture Detection
+Computer Vision system for posture analysis.
+
+## 🎯 Career Goal
+
+To pursue a Master's degree in AI/Data Science in the UK and contribute to impactful AI research and applications.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/hafeezgee
